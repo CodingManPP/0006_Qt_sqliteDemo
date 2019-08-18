@@ -1,0 +1,2 @@
+# 0006_Qt_sqliteDemo
+在Qt环境下的sqlite的增删改查
